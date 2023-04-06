@@ -1,0 +1,64 @@
+- 0: 
+  name: Wraps met geitenkaas
+  week: Week 12
+  rating:
+    Gido: 4
+    Peter: 5
+  photo: 'wraps_met_geitenkaas.jpg'
+  dishes:
+    Wraps met geitenkaas:
+      - Geitenkaas
+      - Witte kool
+      - Paprika
+      - Bruine bonen
+      - Mais
+      - Wraps
+      - Ui
+      - Knoflook
+      - Torilla chips
+    Guacamole:
+      - Avocado
+      - Knoflook
+      - Zout
+      - Rode peper
+      - Komijn
+      - Tomaat
+      - Rode ui
+      - Limoensap
+    Salsa:
+      - Tomaten
+      - Koriander
+      - Jalapeno
+      - Rode ui
+      - Knoflook
+      - Limoen
+      - Chili poeder
+      - Komijn
+      - Zout en peper
+  recipes: 
+    - "Recept voor Frisse Tomaten Salsa:\n\nIngrediënten:\n- 4 tomaten, ontpit en in stukjes gesneden\n- 1 rode ui, fijn gehakt\n- 1 jalapeno, fijn gehakt\n- 2 teentjes knoflook, fijn gehakt\n- 1 eetlepel koriander, fijngehakt\n- 2 eetlepels limoensap\n- 1 theelepel chili poeder\n- 1 theelepel komijnpoeder\n- 1 theelepel zout\n- versgemalen zwarte peper\n\nBereidingswijze:\n\n1. Doe alle ingrediënten in een kom en roer goed om.\n\n2. Zet in de koelkast en laat 30 minuten staan of langer als je\n\tde smaak verder wilt versterken.\n\nWoordgrap: Jalapeno, de hotste pepper die de kou verdringt!"
+    - "Recept:  ‘Smaakvolle Geitenkaas Wraptacular’ \n4 personen\n\nIngrediënten: \n- 500 gram geitenkaas\n- 1 witte kool\n- 1 rode paprika\n- 200 gram bruine bonen\n- 150 gram maïs\n- 4 wraps\n- 2 uien\n- 2 teentjes knoflook\n- 1 bakje tortilla chips\n\nBereidingswijze:\n1. Snijd de ui en de knoflookteentjes fijn.\n2. Fruit de ui en knoflook in een klein laagje olie.\n3. Voeg de paprika toe en laat het 5 minuten bakken.\n4. Voeg de kool, de bonen en de maïs toe en laat het 10 minuten bakken tot alles warm is.\n5. Verwarm de wraps volgens de aanwijzingen op het pak.\n6. Verdeel het warme groentemengsel over de warme wraps.\n7. Verdeel de geitenkaas over de wraps.\n8. Serveer met de chips erbij.\n\nWoordgrap: waarom was de kool zo boos toen de geitenkaas erover ging? Omdat je zijn kaas had gestolen!"
+    - "Recept:  'Ge-knakte Guacamole' voor 4 personen\n\nIngrediënten:\n- 2 Avocado's\n- 3 teentjes Knoflook\n- 1 theelepel Zout\n- 1 theelepel Rode peper\n- 1 theelepel Komijn\n- 1 Tomaat\n- 1 Rode ui\n- Sap van 1 Limoen\n\nInstructies:\n1. Schil de avocado's en voeg deze toe aan een kom.\n2. Pers de knoflook boven de kom en voeg het zout toe.\n3. Voeg de rode peper, komijn, tomaat, rode ui en limoensap toe en roer alles goed door elkaar.\n4. Breng de guacamole op smaak met eventueel extra zout.\n\nWoordgrap: 'Rode peper maakt je guacamole lekker heet, op wat voor temperatuur zou dat zijn? Ge-knakte Celsius!'"
+- 1:
+  name: Dikke wok noodles
+  week: Week 13
+  rating:
+    Stan: 3.5
+    Dries: 4
+    Michael: 3
+  photo: 'dikke_wok_noodles.jpeg'
+  dishes:
+    Dikke wok noodles:
+     - Sambal
+     - Paksoi
+     - Noodles
+     - Witte wijn azijn
+     - Soja-saus
+     - Tofu
+     - Spaanse peper
+     - Winterpeen
+     - Ui
+     - Gember
+     - Knoflook
+  recipes:
+    - "Receptnaam: Wok-knofloof-noodles\n\nRecept voor 4 personen\n\nIngrediënten:\n\n- 200g Sambal\n- 250g Paksoi\n- 400g Noodles\n- 2 eetlepels witte wijnazijn\n- 1 eetlepel soja-saus\n- 200g Tofu\n- 1 Spaanse peper\n- 2 winterpeen\n- 1 grote ui\n- 1 cm gember\n- 2 teentjes knoflook\n\nBereidingswijze:\n\n1. Kook de noodles klaar volgens de bereidingswijze die u op de verpakking van de noodles vindt.\n\n2. Verwarm een wok op hoge temperatuur (200 graden celcius).\n\n3. Voeg de witte wijnazijn, soja-saus, Sambal, Spaanse peper, gesnipperde winterpeen en ui toe en bak alles in ongeveer 5 minuten.\n\n4. Voeg de Tofu, de gesnipperde gember en de fijngesneden knoflook toe en bak het geheel nog eens 5 minuten.\n\n5. Voeg de Paksoi toe en laat het nog ongeveer 5 minuten bakken.\n\n6. Voeg dan de gekookte noodles toe en bak alles nog eens 5 minuten.\n\n7. Als je wok noodles klaar is, kun je er woordgrappen over maken: 'Deze Wok-knofloof-noodles zijn zo heet, dat je knofloof er aan kunt branden'"
