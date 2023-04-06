@@ -27,7 +27,8 @@ class Recipe:
     def recipes(self, recipes):
         self.recipes = recipes
     
-recipes = yaml.load(open(r"Recipes.yaml"), Loader=yaml.FullLoader)
+with open("Recipes.yaml", 'rt', encoding='utf8') as yml:
+    recipes = yaml.load(yml, Loader=yaml.FullLoader)
 
 AllRecipes = []
 for ii in range(len(recipes)):
