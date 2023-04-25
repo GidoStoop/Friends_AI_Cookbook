@@ -21,6 +21,13 @@ def newWidth(img, img_new_width):
 
     return img_resize
 
+def newHeight(img, img_new_height):
+    img_width, img_height = img.size
+    img_new_width = int((img_new_height/img_height)*img_width)
+    img_resize = img.resize((img_new_width, img_new_height), Image.NEAREST)
+
+    return img_resize
+
 def centralizeTextInImage(Title, Font, Img, ImgX, ImgY, **kwargs):
     FontWidth, FontHeight = draw.textsize(Title, font = Font)
     ImgWidth, ImgHeight = Img.size
@@ -150,7 +157,7 @@ for pages, Recipe in enumerate(AllRecipes):
         maxTextWidth = 100
     if NoOfRecipes == 2:
         centerIncrementations = [0.25, 0.75]
-        maxTextWidth = 65
+        maxTextWidth = 50
     if NoOfRecipes == 3:
         centerIncrementations = [0.2, 0.5, 0.8]
         maxTextWidth = 30
@@ -228,7 +235,7 @@ for pages, Recipe in enumerate(AllRecipes):
 
     #Add photo
     Photo = Image.open(f"photos/{Recipe.photo}")
-    PhotoResize = newWidth(Photo, 2000)
+    PhotoResize = newHeight(Photo, 1100)
     PhotoResizeBorder = ImageOps.expand(PhotoResize,border=25,fill='pink')
     PhotoX = centralizeImageX(PageWidth, PhotoResizeBorder)
     Page.paste(PhotoResizeBorder, (PhotoX, PhotoY))

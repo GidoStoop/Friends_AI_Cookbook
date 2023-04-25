@@ -3,7 +3,7 @@ import requests
 import json
 
 #Ingredients list for which to request prompt. Index start = 0
-RecipeNo = 0
+RecipeNo = 2
 
 #Setting up chatGPT API
 api_endpoint = "https://api.openai.com/v1/completions"
